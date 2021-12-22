@@ -24,36 +24,8 @@ async def help(ctx, args=None):
 
     await ctx.send(embed=help_embed)
 
-# favorite anime checker
-# favorite character checker
-
 hentai = [
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/12/Itsuki-Nakano-The-Quintessential-Quintuplets-rule34-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/12/Mai-Sakurajima-Rascal-Does-Not-Dream-of-Bunny-Girl-Senpai-hentai-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/12/Elinalise-Dragonroad-Mushoku-Tensei-rule34-uncensored-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/12/Raiden-Shogun-Genshin-Impact-animated-2d-hentai-video.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/12/Mieruko-chan-Miko-Yotsuya-rule34-hentai-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/12/Naruto-Shizune-hentai-uncensored-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/12/Siesta-The-Detective-Is-Already-Dead-pussy-creampied-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/11/Hanabi-Hyuuga-Naruto-hentai-wet-pussy-fucked-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/11/Darling-in-the-FranXX-Zero-Two-rule34-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/11/Genshin-Impact-uncensored-Hu-Tao-hentai-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/11/Emilia-Re-Life-in-a-Different-World-from-Zero-footjob-hentai-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/11/Utaha-Kasumigaoka-Saekano-Flat-2d-hentai-video.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/11/Genshin-Impact-Sara-Kujou-rule-34-hentai-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/11/Miss-Kobayashis-Dragon-Maid-Tohru-footjob-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/11/Black-Clover-Noelle-Silva-pussy-and-ass-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/10/Hu-Tao-Pussy-and-feet-Genshin-Impact-2d-rule34-hentai-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/10/Ayaka-Kamisato-Genshin-Impact-pussy-creampie-hentai-image.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/10/Genshin-Impact-Miko-Yae-and-Raiden-Shogun-1.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/10/Ganyu-Genshin-Impact-gangbang-and-creampie.webp',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/10/Komi-Cant-Communicate-Shouko-Komi-2d-hentai-552x781.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/10/Hinata-Hyuga-pussy-fucked-POV-Naruto-2D-hentai-image-552x833.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/10/Ayumu-Uehara-and-Yuu-Takasaki-Love-Live-hentai-552x761.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/10/Baal-Genshin-Impact-Raiden-Shogun-2d-hentai-art-552x690.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/10/Genshin-Impact-Hu-Tao-2d-hentai-porrn-552x390.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/09/Kurumi-Tokisaki-2d-hentai-Date-A-Live-552x779.jpg',
-    'https://cdn.2dhentai.club/wp-content/uploads/2021/09/Ayaka-Kamisato-Genshin-Impact-2d-hentai-creampie-552x784.jpg',
+    'link.com'
 ]
 
 memes = [
